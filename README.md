@@ -23,7 +23,14 @@ To analyze traffic data and identify key factors contributing to congestion, pro
 - Urban Planners
 - Residents
 - Commuters
+## Data Source
 
+### NYCDOT Traffic Speed NBE Data
+- **Description**: Real-time traffic speed data covering major roads, highways, bridges, and minor streets in New York City.
+- **Timeframe**: September 1, 2024, to October 31, 2024.
+- **Observations**: Over 88 million records.
+- **Granularity**: Data recorded at regular intervals, providing detailed insights into traffic conditions.
+  
 ## Expected Outcomes
 - Predictive analysis report identifying high-risk areas for congestion
 - Causal analysis report exploring key factors affecting traffic flow
