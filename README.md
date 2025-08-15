@@ -10,3 +10,20 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
+# Stakeholder Memo
+
+## Project Background
+New York City's traffic congestion is a significant issue affecting residents' quality of life and the city's economic development.
+
+## Project Goals
+To analyze traffic data and identify key factors contributing to congestion, proposing effective mitigation strategies.
+
+## Stakeholders
+- NYCDOT
+- Urban Planners
+- Residents
+- Commuters
+
+## Expected Outcomes
+- Predictive analysis report identifying high-risk areas for congestion
+- Causal analysis report exploring key factors affecting traffic flow
