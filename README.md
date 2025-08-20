@@ -11,7 +11,7 @@ GitHub.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
 
-# Stage 06 — Data Preprocessing
+# Stage 06 — Cleaning Strategy
 
 This stage focuses on applying data cleaning techniques to prepare raw datasets for analysis and modeling.  
 
