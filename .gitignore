@@ -6,4 +6,30 @@ data/processed/
 .DS_Store
 
 # Ignore environment variable files
-.envhomework/data/
+.env
+
+# Ignore .DS_Store
+.DS_Store
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
